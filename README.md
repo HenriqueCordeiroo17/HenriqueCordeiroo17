@@ -4,7 +4,7 @@
 
 <p align="left">
 Curious about technology, networks and how digital systems really work.<br>
-Currently building strong foundations in Cybersecurity and Networking.
+Focused on Cybersecurity, Digital Defense and building strong technical foundations.
 </p>
 
 ###
@@ -14,10 +14,40 @@ Currently building strong foundations in Cybersecurity and Networking.
 ###
 
 <p align="left">
-✨ Creating bugs since 2024 (and learning from every single one)<br>
-📚 I'm currently learning Networking fundamentals, Linux and Cybersecurity concepts<br>
-🎯 Goals: Become a Security Analyst in the next 2 years and master network security fundamentals<br>
-🎲 Fun fact: I believe the best way to understand a system is to break it and rebuild it better
+✨ Creating bugs since 2024 (and learning deeply from each one)<br>
+📚 Currently studying Networking fundamentals, Linux, and Cybersecurity concepts<br>
+🧠 Passionate about understanding how systems behave under stress and failure<br>
+🔐 Interested in Blue Team, SOC environments and threat analysis<br>
+🎯 Goal: Become a highly skilled Security Analyst in the next 2 years<br>
+📖 Constant learner — documenting everything I study<br>
+🎲 Fun fact: I enjoy breaking down complex systems just to understand how they truly work<br>
+☕ Coffee-powered and discipline-driven
+</p>
+
+###
+
+<h2 align="left">What I'm Building</h2>
+
+###
+
+<p align="left">
+🧪 Personal Networking Lab (in progress)<br>
+🐧 Linux practice environment for command-line mastery<br>
+📝 Cybersecurity study notes and technical documentation<br>
+🔎 Exploring system vulnerabilities and defensive concepts<br>
+</p>
+
+###
+
+<h2 align="left">Current Focus</h2>
+
+###
+
+<p align="left">
+🌐 Deep understanding of TCP/IP and network architecture<br>
+🛡 Security fundamentals and defensive mindset<br>
+⚙ Strengthening logical reasoning and troubleshooting skills<br>
+📈 Building consistency and long-term technical growth
 </p>
 
 ###
