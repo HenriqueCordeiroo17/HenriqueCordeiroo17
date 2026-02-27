@@ -20,8 +20,6 @@ Focused on Cybersecurity, Digital Defense and building strong technical foundati
 🔐 Interested in Blue Team, SOC environments and threat analysis<br>
 🎯 Goal: Become a highly skilled Security Analyst in the next 2 years<br>
 📖 Constant learner — documenting everything I study<br>
-🎲 Fun fact: I enjoy breaking down complex systems just to understand how they truly work<br>
-☕ Coffee-powered and discipline-driven
 </p>
 
 ###
