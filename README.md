@@ -14,7 +14,6 @@ Focused on Cybersecurity, Digital Defense and building strong technical foundati
 ###
 
 <p align="left">
-✨ Creating bugs since 2024 (and learning deeply from each one)<br>
 📚 Currently studying Networking fundamentals, Linux, and Cybersecurity concepts<br>
 🧠 Passionate about understanding how systems behave under stress and failure<br>
 🔐 Interested in Blue Team, SOC environments and threat analysis<br>
