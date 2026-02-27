@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 I'm Henrique Cordeiro</h1>
+<h1 align="left">Hi 👋, Im Henrique Cordeiro</h1>
 
 ###
 
