@@ -20,8 +20,6 @@ Focused on Cybersecurity, Digital Defense and building strong technical foundati
 🔐 Interested in Blue Team, SOC environments and threat analysis<br>
 🎯 Goal: Become a highly skilled Security Analyst in the next 2 years<br>
 📖 Constant learner — documenting everything I study<br>
-🎲 Fun fact: I enjoy breaking down complex systems just to understand how they truly work<br>
-☕ Coffee-powered and discipline-driven
 </p>
 
 ###
@@ -52,7 +50,7 @@ Focused on Cybersecurity, Digital Defense and building strong technical foundati
 
 ###
 
-<h2 align="left">Tools I Use</h2>
+<h2 align="left">Tools & Technologies</h2>
 
 ###
 
@@ -63,7 +61,11 @@ Focused on Cybersecurity, Digital Defense and building strong technical foundati
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
 </div>
 
 ###
