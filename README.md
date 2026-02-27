@@ -15,7 +15,6 @@ Focused on Cybersecurity, Digital Defense and building strong technical foundati
 
 <p align="left">
 📚 Currently studying Networking fundamentals, Linux, and Cybersecurity concepts<br>
-🧠 Passionate about understanding how systems behave under stress and failure<br>
 🔐 Interested in Blue Team, SOC environments and threat analysis<br>
 🎯 Goal: Become a highly skilled Security Analyst in the next 2 years<br>
 📖 Constant learner — documenting everything I study<br>
