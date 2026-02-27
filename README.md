@@ -1,52 +1,39 @@
-# Hi 👋, I'm Henrique Cordeiro
+<h1 align="left">Hi 👋 I'm Henrique Cordeiro</h1>
 
-Curious about technology, networks and how digital systems really work.  
+###
+
+<p align="left">
+Curious about technology, networks and how digital systems really work.<br>
 Currently building strong foundations in Cybersecurity and Networking.
+</p>
 
----
+###
 
-## 🧠 About Me
+<h2 align="left">About me</h2>
 
-- 📚 Studying Networking and Cybersecurity fundamentals  
-- 🐧 Exploring Linux and system behavior  
-- 🔐 Interested in how systems fail — and how to protect them  
-- 🧠 Focused on mastering the basics before chasing trends  
-- ☕ Powered by coffee and discipline  
+###
 
----
+<p align="left">
+✨ Creating bugs since 2024 (and learning from every single one)<br>
+📚 I'm currently learning Networking fundamentals, Linux and Cybersecurity concepts<br>
+🎯 Goals: Become a Security Analyst in the next 2 years and master network security fundamentals<br>
+🎲 Fun fact: I believe the best way to understand a system is to break it and rebuild it better
+</p>
 
-## 🛠 Currently Learning
+###
 
-- TCP/IP and network fundamentals  
-- Linux command line  
-- Security fundamentals  
-- Git and version control  
-- System architecture basics  
+<h2 align="left">I work and study with</h2>
 
----
+###
 
-## 🧪 Experiments & Labs
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+</div>
 
-- 🔍 Personal Networking Lab (in progress)  
-- 🖥 Linux practice environment  
-- 📝 Documenting cybersecurity concepts and insights  
-- 🧠 Testing and understanding system behavior  
-
----
-
-## 📈 Goals
-
-- Build deep understanding of networks  
-- Develop solid cybersecurity foundations  
-- Become a Security Analyst in the next 2 years  
-- Keep improving every single day  
-
----
-
-## 🧩 Mindset
-
-I believe real learning happens when you break things, understand them,  
-and rebuild them better.
-
-Technology is not just about using systems —  
-it’s about understanding how they truly work.
+###
