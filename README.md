@@ -1,10 +1,10 @@
-<h1 align="left">Hi 👋, Im Henrique Cordeiro</h1>
+<h1 align="left">Hi 👋 I'm Henrique Cordeiro</h1>
 
 ###
 
 <p align="left">
-Curioso sobre tecnologia, redes e como os sistemas digitais realmente funcionam.<br>
-Focado em Cibersegurança, Defesa Digital e na construção de bases técnicas sólidas.
+Curious about technology, networks and how digital systems really work.<br>
+Focused on Cybersecurity, Digital Defense and building strong technical foundations.
 </p>
 
 ###
@@ -14,12 +14,12 @@ Focado em Cibersegurança, Defesa Digital e na construção de bases técnicas s
 ###
 
 <p align="left">
-✨ Criando bugs desde 2024 (e aprendendo profundamente com cada um deles)<br>
-📚 Atualmente estudando fundamentos de Redes, Linux e conceitos de Cibersegurança<br>
-🧠 Apaixonado por entender como sistemas se comportam sob falhas e pressão<br>
-🔐 Interessado em Blue Team, ambientes SOC e análise de ameaças<br>
-🎯 Objetivo: Me tornar um Analista de Segurança altamente qualificado nos próximos 2 anos<br>
-📖 Aprendiz constante — documentando tudo o que estudo<br>
+✨ Creating bugs since 2024 (and learning deeply from each one)<br>
+📚 Currently studying Networking fundamentals, Linux, and Cybersecurity concepts<br>
+🧠 Passionate about understanding how systems behave under stress and failure<br>
+🔐 Interested in Blue Team, SOC environments and threat analysis<br>
+🎯 Goal: Become a highly skilled Security Analyst in the next 2 years<br>
+📖 Constant learner — documenting everything I study<br>
 </p>
 
 ###
@@ -29,10 +29,10 @@ Focado em Cibersegurança, Defesa Digital e na construção de bases técnicas s
 ###
 
 <p align="left">
-🧪 Laboratório pessoal de Redes (em desenvolvimento)<br>
-🐧 Ambiente de prática em Linux para domínio do terminal<br>
-📝 Anotações e documentação técnica sobre Cibersegurança<br>
-🔎 Explorando vulnerabilidades e conceitos de defesa digital
+🧪 Personal Networking Lab (in progress)<br>
+🐧 Linux practice environment for command-line mastery<br>
+📝 Cybersecurity study notes and technical documentation<br>
+🔎 Exploring system vulnerabilities and defensive concepts
 </p>
 
 ###
@@ -42,10 +42,10 @@ Focado em Cibersegurança, Defesa Digital e na construção de bases técnicas s
 ###
 
 <p align="left">
-🌐 Compreensão profunda de TCP/IP e arquitetura de redes<br>
-🛡 Fundamentos de segurança e mentalidade defensiva<br>
-⚙ Fortalecimento do raciocínio lógico e resolução de problemas<br>
-📈 Construção de consistência e crescimento técnico a longo prazo
+🌐 Deep understanding of TCP/IP and network architecture<br>
+🛡 Security fundamentals and defensive mindset<br>
+⚙ Strengthening logical reasoning and troubleshooting skills<br>
+📈 Building consistency and long-term technical growth
 </p>
 
 ###
