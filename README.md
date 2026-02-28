@@ -1,89 +1,92 @@
 <h1 align="left">Hi 👋, I'm Henrique Cordeiro</h1>
 
-<h3 align="left">Cybersecurity Analyst in Development | Blue Team Mindset | System-Level Thinker</h3>
+<h3 align="left">Future Cybersecurity Analyst | Blue Team Oriented | Building Technical Depth</h3>
 
 <p align="left">
-I don’t just want to use systems — I want to understand how they break, how they fail, and how to defend them.<br>
-Focused on building deep technical foundations in Networking, Linux, and Defensive Security.
+Curious about how digital systems really work — not just using them, but understanding their structure, weaknesses and defenses.<br>
+Focused on Cybersecurity, Network Architecture and long-term technical mastery.
 </p>
 
 ---
 
-<h2 align="left">🧠 Technical Identity</h2>
+<h2 align="left">📊 Progress & Discipline</h2>
 
 <p align="left">
-🔐 Defensive Security Oriented<br>
-🌐 Strong focus on Network Behavior & TCP/IP<br>
-🐧 Linux-first problem solving approach<br>
-📊 Structured documentation and analytical thinking<br>
-⚙ Logic-driven troubleshooting mindset
+📌 200+ hours studying Networking fundamentals<br>
+📌 100+ hours practicing Linux command line<br>
+📌 Building personal virtual lab environment<br>
+📌 Weekly structured cybersecurity documentation<br>
+📌 Continuous problem-solving and troubleshooting practice
 </p>
 
 ---
 
-<h2 align="left">🛠 Active Lab Environment</h2>
+<h2 align="left">🛠 What I'm Building</h2>
 
 <p align="left">
-🧪 Multi-VM virtual lab (internal network simulation)<br>
-🔎 Packet inspection and traffic analysis practice<br>
-🖥 Log analysis and system monitoring exercises<br>
-🐧 Bash scripting for task automation<br>
-📂 Organized technical notes structured like a knowledge base
+🧪 Personal Networking Lab (Virtual Machines + Internal Network Simulation)<br>
+🐧 Linux environment focused on command-line mastery<br>
+🔎 Packet analysis practice with Wireshark<br>
+📝 Public cybersecurity study repository<br>
+⚙ Small automation scripts for system tasks
 </p>
 
 ---
 
-<h2 align="left">📊 Growth Metrics</h2>
+<h2 align="left">🛣 Learning Roadmap</h2>
 
 <p align="left">
-📌 300+ hours dedicated to Networking & Linux<br>
-📌 Daily hands-on lab practice<br>
-📌 Continuous documentation on GitHub<br>
-📌 Weekly technical improvement tracking<br>
-📌 Long-term consistency discipline
+✅ Networking Fundamentals (TCP/IP, OSI, Routing basics)<br>
+🔄 Deep Linux practice & system understanding<br>
+🔄 Security fundamentals (defensive mindset)<br>
+⏳ SOC simulation & log analysis practice<br>
+⏳ Security+ level knowledge<br>
+🎯 Target: First Security Role within 2 years
 </p>
 
 ---
 
-<h2 align="left">🛣 Strategic Roadmap</h2>
+<h2 align="left">🧠 Current Focus</h2>
 
 <p align="left">
-Phase 1 — Networking Mastery (TCP/IP, Subnetting, Routing)<br>
-Phase 2 — Linux System Internals & Hardening<br>
-Phase 3 — Security Fundamentals & Threat Detection<br>
-Phase 4 — SOC Simulation & Incident Response Practice<br>
-Target: First Security Role within 24 months
+🌐 Deep understanding of TCP/IP and network behavior<br>
+🛡 Defensive security principles and threat analysis basics<br>
+⚙ Strengthening logical reasoning & troubleshooting<br>
+📈 Consistency and long-term technical growth
 </p>
 
 ---
 
-<h2 align="left">🧰 Core Tools</h2>
+<h2 align="left">🧰 Tools & Technologies</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
 </div>
 
 ---
 
-<h2 align="left">⚡ Operational Philosophy</h2>
+<h2 align="left">📈 GitHub Stats</h2>
 
 <p align="left">
-Security is preparation under pressure.<br>
-Systems fail when misunderstood.<br>
-Understanding deeply is the ultimate defense.
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=dracula" height="150"/>
 </p>
 
 ---
 
-<h2 align="left">📈 Activity</h2>
+<h2 align="left">⚡ Philosophy</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+Security is not about paranoia — it's about preparation.<br>
+Understand deeply. Build consistently. Think defensively.
 </p>
