@@ -45,11 +45,6 @@ I'm building a strong foundation in Networking and Cybersecurity.<br><br>
 
 ###
 
-<h3 align="left">🔥 GitHub Activity</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueCordeiroo17&show_icons=true&theme=dark" height="150"/>
-</div>
 
 ###
 
