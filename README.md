@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Henrique Cordeiro</h1>
+<h1 align="center">Hi 👋, I'm Henrique Cordeiro</h1>
 <h3 align="center">Future Cybersecurity Analyst | Blue Team Focused</h3>
 
 ###
