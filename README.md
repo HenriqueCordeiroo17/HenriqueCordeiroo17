@@ -12,8 +12,8 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I'm building a strong foundation in Networking and Cybersecurity.<br><br>
-- 📚 Currently studying TCP/IP, OSI and Linux fundamentals<br>
+Building a strong foundation in Networking and Cybersecurity.<br><br>
+- 📚 Studying TCP/IP, OSI model and Linux fundamentals<br>
 - 🧪 Building a personal virtual lab for practice<br>
 - 🛡 Focused on defensive security mindset<br>
 - 🎯 Goal: First security role within 2 years
@@ -39,12 +39,13 @@ I'm building a strong foundation in Networking and Cybersecurity.<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
 </div>
 
-<p align="left">
-💻 Linux environment (Zorin OS)
-</p>
-
 ###
 
+<h3 align="left">🔥 GitHub Activity</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueCordeiroo17&show_icons=true&theme=dark" height="150"/>
+</div>
 
 ###
 
